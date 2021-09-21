@@ -1,0 +1,50 @@
+body {
+  background-color: #eee;
+}
+
+h1, h2, h3, p, li {
+  text-align: center;
+}
+
+h1 {
+  color: #006D77;
+  font-size: 80px;
+  font-family: Snell Roundhand, cursive;
+  padding: 10px;
+}
+
+h2, h3 {
+  font-family: Optima, sans-serif;
+  color: #E29578;
+  padding: 10px;
+}
+
+h2 {
+  font-size: 25px;
+}
+
+p {
+  font-family: Optima, sans-serif;
+}
+
+footer {
+  text-align: center;
+  margin-top: 50px;
+}
+
+/*For horse racing image */
+.center {
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
+  border-radius: 50px;
+}
+
+/*To get the list bullet points in the center of page. */
+.list-style {
+  list-style: inside;
+}
+
+.page-footer {
+  background-color: #bebebe;
+}
